@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Новая папка (2)\day 3\bin\Debug\net10.0\day 3.exe
+C:\Users\user\Desktop\Новая папка (2)\day 3\bin\Debug\net10.0\day 3.deps.json
+C:\Users\user\Desktop\Новая папка (2)\day 3\bin\Debug\net10.0\day 3.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (2)\day 3\bin\Debug\net10.0\day 3.dll
+C:\Users\user\Desktop\Новая папка (2)\day 3\bin\Debug\net10.0\day 3.pdb
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.dll
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\refint\day 3.dll
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.pdb
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\day 3.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (2)\day 3\obj\Debug\net10.0\ref\day 3.dll
